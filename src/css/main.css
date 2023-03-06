@@ -1,13 +1,13 @@
-@import  url("https://quasar.dev/assets/index.css");  /*Использую для готовой сетки*/
+@import url("https://quasar.dev/assets/index.css"); /*Использую для готовой сетки*/
 
+.container {
+  max-width: 1240px;
+  margin: 20px auto;
+}
 .border1 {
-    border: 2px solid gray;
+  border: 2px solid gray;
 }
 
 .border2 {
-    border: 2px solid #3737ff;
-}
-
-.border3 {
-    border: 2px solid #87ff37;
+  border: 2px solid #3737ff;
 }
